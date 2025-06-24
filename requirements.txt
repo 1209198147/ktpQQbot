@@ -1,0 +1,6 @@
+pymysql~=1.1.1
+yaml~=0.2.5
+pyyaml~=6.0
+ncatbot~=3.8.8
+requests~=2.32.4
+openai~=1.90.0

@@ -1,0 +1,12 @@
+qq: 机器人QQ号  # 替换为你的机器人QQ号
+reply_p: 0.4    # 群聊中回复别人的概率（0.0-1.0）
+group_uin: "群号1,群号2"  # 白名单群聊群号，用英文逗号分隔
+
+# AI模型配置
+model: "gemini"  # 或 "deepseek"
+apiKey: "你的API密钥"  # 替换为对应模型的API密钥
+system_prompt: "系统提示词文件路径"  # 提示词文件路径
+
+# 会话管理
+group_conversation_maxLen: 50   # 群聊对话最大保存数（负数表示无限制）
+private_conversation_maxLen: 100 # 私聊对话最大保存数（负数表示无限制）

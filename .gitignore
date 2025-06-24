@@ -1,0 +1,6 @@
+test/
+napcat/
+data/
+.idea/
+logs/
+__pycache__/
